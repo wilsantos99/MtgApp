@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MtgApp/EdicoesMtg.swift"
+            timestampString = "471732882.881564"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(nome:codigo:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MtgApp/EdicoesMtg.swift"
+            timestampString = "471733435.120183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getNome()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MtgApp/CartasMtgTableViewController.swift"
+            timestampString = "471735678.880959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CartasMtgTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MtgApp.CartasMtgTableViewController.edicao.setter : MtgApp.EdicoesMtg.Type"
+                  moduleName = "MtgApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsondivino/Documents/Desenvolvimento/MtgApp/MtgApp/CartasMtgTableViewController.swift"
+                  timestampString = "471735779.308391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MtgApp.CartasMtgTableViewController.edicao.materializeForSet : MtgApp.EdicoesMtg.Type"
+                  moduleName = "MtgApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsondivino/Documents/Desenvolvimento/MtgApp/MtgApp/CartasMtgTableViewController.swift"
+                  timestampString = "471735779.308584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MtgApp.CartasMtgTableViewController.init (MtgApp.CartasMtgTableViewController.Type)(style : C.UITableViewStyle) -&gt; MtgApp.CartasMtgTableViewController"
+                  moduleName = "MtgApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsondivino/Documents/Desenvolvimento/MtgApp/MtgApp/CartasMtgTableViewController.swift"
+                  timestampString = "471735779.308831"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MtgApp.CartasMtgTableViewController.init (MtgApp.CartasMtgTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; MtgApp.CartasMtgTableViewController"
+                  moduleName = "MtgApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsondivino/Documents/Desenvolvimento/MtgApp/MtgApp/CartasMtgTableViewController.swift"
+                  timestampString = "471735779.309084"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MtgApp.CartasMtgTableViewController.init (MtgApp.CartasMtgTableViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;MtgApp.CartasMtgTableViewController&gt;"
+                  moduleName = "MtgApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wilsondivino/Documents/Desenvolvimento/MtgApp/MtgApp/CartasMtgTableViewController.swift"
+                  timestampString = "471735779.309333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
